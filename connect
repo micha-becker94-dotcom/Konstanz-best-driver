@@ -1,0 +1,5 @@
+_redirects
+/*  https://jazzy-salamander-7b43a4.netlify.app/:splat  301!
+git add _redirects
+git commit -m "Add redirect"
+git push
